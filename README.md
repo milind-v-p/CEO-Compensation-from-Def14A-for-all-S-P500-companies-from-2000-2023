@@ -96,7 +96,3 @@ The script produces an Excel file with columns for:
 ## Parallel Downloading
 
 The SEC data was divided into six alphabetical groups, processed in parallel for efficiency. Each file represents a subset of S&P 500 companies, helping manage API limits and processing time.
-
----
-
-This README explains the data extraction process, folder setup, data organization, and the intended outputs, allowing other users to understand and replicate this methodology.
